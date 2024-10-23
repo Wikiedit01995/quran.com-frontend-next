@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "command": "cd \"${fileDirname}\" && yarn && \"yarn dev\"",
+      "name": "Run Program",
+      "request": "launch",
+      "type": "node-terminal"
+    }
+  ],
+  "compounds": []
+}
